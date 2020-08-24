@@ -1,29 +1,9 @@
 #EXTM3U
-#EXTINF:-1,FR| TF1 SD
-http://dream4k.co:8080/thismonth1/5489427717/29303
-#EXTINF:-1,FR| TF1  1 SD
-http://dream4k.co:8080/thismonth1/5489427717/29302
-#EXTINF:-1,FR| FRANCE 2 SD
-http://dream4k.co:8080/thismonth1/5489427717/29301
-#EXTINF:-1,FR| FRANCE 3 SD
-http://dream4k.co:8080/thismonth1/5489427717/29300
-#EXTINF:-1,FR| FRANCE 4 SD
-http://dream4k.co:8080/thismonth1/5489427717/29299
-#EXTINF:-1,FR| FRANCE 5 SD
-http://dream4k.co:8080/thismonth1/5489427717/29298
-#EXTINF:-1,FR| ARTE SD
-http://dream4k.co:8080/thismonth1/5489427717/29297
-#EXTINF:-1,FR| M6 SD
-http://dream4k.co:8080/thismonth1/5489427717/29296
-#EXTINF:-1,FR| 6TER SD
-http://dream4k.co:8080/thismonth1/5489427717/29295
-#EXTINF:-1,FR| W9 SD
-http://dream4k.co:8080/thismonth1/5489427717/29294
-#EXTINF:-1,FR| TFX SD
-http://dream4k.co:8080/thismonth1/5489427717/29292
-#EXTINF:-1,FR| TF1 SERIES / FILMS SD
-http://dream4k.co:8080/thismonth1/5489427717/29291
-#EXTINF:-1,FR| C8 SD
-http://dream4k.co:8080/thismonth1/5489427717/29290
-#EXTINF:-1,FR| CSTAR SD
-http://dream4k.co:8080/thismonth1/5489427717/29289
+#EXTINF:-1,KSAI SPORTS HD1 HEVC
+http://dream4k.co:8080/thismonth1/5489427717/49883
+#EXTINF:-1,KSAI SPORTS HD2 HEVC
+http://dream4k.co:8080/thismonth1/5489427717/49884
+#EXTINF:-1,KSAI SPORTS HD3 HEVC
+http://dream4k.co:8080/thismonth1/5489427717/49885
+#EXTINF:-1,KSAI SPORTS HD4 HEVC
+http://dream4k.co:8080/thismonth1/5489427717/49886
