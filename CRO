@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1,KSAI SPORTS HD1 HEVC
-http://dream4k.co:8080/thismonth1/5489427717/49883
-#EXTINF:-1,KSAI SPORTS HD2 HEVC
-http://dream4k.co:8080/thismonth1/5489427717/49884
-#EXTINF:-1,KSAI SPORTS HD3 HEVC
-http://dream4k.co:8080/thismonth1/5489427717/49885
-#EXTINF:-1,KSAI SPORTS HD4 HEVC
-http://dream4k.co:8080/thismonth1/5489427717/49886
+#EXTINF:1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Abu Dhabi Sports 2"  group-title="New Group",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:2, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai Racing 2"  group-title="New Group",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:3, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai Sports 1"  group-title="New Group",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:4, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai Sports 2"  group-title="New Group",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:5, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
+http://123.456.789
+#EXTINF:6, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="New Group",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
