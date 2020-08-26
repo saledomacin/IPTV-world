@@ -7,7 +7,5 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:4, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Dubai Sports 2"  group-title="New Group",Dubai Sports 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:5, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="New Channel"  group-title="New Group",New Channel
-http://123.456.789
-#EXTINF:6, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="New Group",Edge Sports
+#EXTINF:5, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Edge Sports"  group-title="New Group",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
